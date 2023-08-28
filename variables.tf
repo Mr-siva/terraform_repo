@@ -9,10 +9,10 @@ variable "ami" {
 }
 
 variable "name" {
-    dafault = ""
+    dafault = "siva"
 }
 variable "created_by" {
-    dafault = ""
+    dafault = "terraform_git_modules"
 }
 
 
